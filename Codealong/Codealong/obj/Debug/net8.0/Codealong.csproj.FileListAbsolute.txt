@@ -13,3 +13,18 @@ C:\Users\sande\Desktop\GET Academy\GET\C Sharp\CODEALONG\Codealong\Codealong\obj
 C:\Users\sande\Desktop\GET Academy\GET\C Sharp\CODEALONG\Codealong\Codealong\obj\Debug\net8.0\Codealong.pdb
 C:\Users\sande\Desktop\GET Academy\GET\C Sharp\CODEALONG\Codealong\Codealong\obj\Debug\net8.0\Codealong.genruntimeconfig.cache
 C:\Users\sande\Desktop\GET Academy\GET\C Sharp\CODEALONG\Codealong\Codealong\obj\Debug\net8.0\ref\Codealong.dll
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\bin\Debug\net8.0\Codealong.exe
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\bin\Debug\net8.0\Codealong.deps.json
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\bin\Debug\net8.0\Codealong.runtimeconfig.json
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\bin\Debug\net8.0\Codealong.dll
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\bin\Debug\net8.0\Codealong.pdb
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\obj\Debug\net8.0\Codealong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\obj\Debug\net8.0\Codealong.AssemblyInfoInputs.cache
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\obj\Debug\net8.0\Codealong.AssemblyInfo.cs
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\obj\Debug\net8.0\Codealong.csproj.CoreCompileInputs.cache
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\obj\Debug\net8.0\Codealong.sourcelink.json
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\obj\Debug\net8.0\Codealong.dll
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\obj\Debug\net8.0\refint\Codealong.dll
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\obj\Debug\net8.0\Codealong.pdb
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\obj\Debug\net8.0\Codealong.genruntimeconfig.cache
+C:\Users\sande\Desktop\GET Academy\CsharpCodeAlong\Codealong\Codealong\obj\Debug\net8.0\ref\Codealong.dll

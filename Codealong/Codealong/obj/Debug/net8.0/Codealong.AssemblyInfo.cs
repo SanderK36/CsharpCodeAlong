@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Codealong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed774b16b10c39728696b14510f5a5b0824d1b1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dab6229e854b577c07e790daecd23d31740b91f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Codealong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Codealong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

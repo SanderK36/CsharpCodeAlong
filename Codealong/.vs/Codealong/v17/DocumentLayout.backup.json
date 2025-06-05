@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\CODEALONG\\Codealong\\",
+  "WorkspaceRootPath": "C:\\Users\\sande\\Desktop\\GET Academy\\CsharpCodeAlong\\Codealong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{093B728B-4AC8-4CE1-A510-9FFA35FA0595}|Codealong\\Codealong.csproj|c:\\users\\sande\\desktop\\get academy\\get\\c sharp\\codealong\\codealong\\codealong\\quizapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{093B728B-4AC8-4CE1-A510-9FFA35FA0595}|Codealong\\Codealong.csproj|c:\\users\\sande\\desktop\\get academy\\csharpcodealong\\codealong\\codealong\\quizapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{093B728B-4AC8-4CE1-A510-9FFA35FA0595}|Codealong\\Codealong.csproj|solutionrelative:codealong\\quizapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{093B728B-4AC8-4CE1-A510-9FFA35FA0595}|Codealong\\Codealong.csproj|c:\\users\\sande\\desktop\\get academy\\get\\c sharp\\codealong\\codealong\\codealong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{093B728B-4AC8-4CE1-A510-9FFA35FA0595}|Codealong\\Codealong.csproj|solutionrelative:codealong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{093B728B-4AC8-4CE1-A510-9FFA35FA0595}|Codealong\\Codealong.csproj|c:\\users\\sande\\desktop\\get academy\\csharpcodealong\\codealong\\codealong\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093B728B-4AC8-4CE1-A510-9FFA35FA0595}|Codealong\\Codealong.csproj|solutionrelative:codealong\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{093B728B-4AC8-4CE1-A510-9FFA35FA0595}|Codealong\\Codealong.csproj|c:\\users\\sande\\desktop\\get academy\\get\\c sharp\\codealong\\codealong\\codealong\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{093B728B-4AC8-4CE1-A510-9FFA35FA0595}|Codealong\\Codealong.csproj|solutionrelative:codealong\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{093B728B-4AC8-4CE1-A510-9FFA35FA0595}|Codealong\\Codealong.csproj|c:\\users\\sande\\desktop\\get academy\\csharpcodealong\\codealong\\codealong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093B728B-4AC8-4CE1-A510-9FFA35FA0595}|Codealong\\Codealong.csproj|solutionrelative:codealong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,35 +40,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "QuizApp.cs",
-              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\CODEALONG\\Codealong\\Codealong\\QuizApp.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\CsharpCodeAlong\\Codealong\\Codealong\\QuizApp.cs",
               "RelativeDocumentMoniker": "Codealong\\QuizApp.cs",
-              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\CODEALONG\\Codealong\\Codealong\\QuizApp.cs*",
-              "RelativeToolTip": "Codealong\\QuizApp.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowCEAAABGAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\CsharpCodeAlong\\Codealong\\Codealong\\QuizApp.cs",
+              "RelativeToolTip": "Codealong\\QuizApp.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T07:18:25.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Question.cs",
-              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\CODEALONG\\Codealong\\Codealong\\Question.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\CsharpCodeAlong\\Codealong\\Codealong\\Question.cs",
               "RelativeDocumentMoniker": "Codealong\\Question.cs",
-              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\CODEALONG\\Codealong\\Codealong\\Question.cs",
+              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\CsharpCodeAlong\\Codealong\\Codealong\\Question.cs",
               "RelativeToolTip": "Codealong\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T07:18:10.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\CODEALONG\\Codealong\\Codealong\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\Desktop\\GET Academy\\CsharpCodeAlong\\Codealong\\Codealong\\Program.cs",
               "RelativeDocumentMoniker": "Codealong\\Program.cs",
-              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\GET\\C Sharp\\CODEALONG\\Codealong\\Codealong\\Program.cs",
+              "ToolTip": "C:\\Users\\sande\\Desktop\\GET Academy\\CsharpCodeAlong\\Codealong\\Codealong\\Program.cs",
               "RelativeToolTip": "Codealong\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

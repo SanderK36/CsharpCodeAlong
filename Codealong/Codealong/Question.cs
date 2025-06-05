@@ -8,13 +8,15 @@ namespace Codealong
 {
     internal class Question
     {
-        public string QuizQuestion {  get; set; }
-        public string[] Answers { get; set; }
+        public string QuizQuestion {  get; private set; }
+        public string[] Answers { get; private set; }
+        public int CorrectAnswer { get; private set; }
 
-        public Question(string question, string correctAnswer, string answer2, string answer3)
+        public Question(string question, string[] answers, int correctAnswer = 0)
         {
             QuizQuestion = question;
-            Answers = new[] {correctAnswer, answer2, answer3};
+            Answers = answers;
+            CorrectAnswer = correctAnswer;
         }
     }
 }
