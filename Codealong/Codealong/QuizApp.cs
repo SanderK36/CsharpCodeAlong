@@ -21,9 +21,11 @@ namespace Codealong
             {
                     Console.WriteLine($"Du har {points} poeng!");
                     Console.WriteLine(question.QuizQuestion);
-                    Console.WriteLine($"A: {question.Answers[0]}");
-                    Console.WriteLine($"B: {question.Answers[1]}");
-                    Console.WriteLine($"C: {question.Answers[2]}");
+
+                    for (int i = 0; i < question.Answers.Length; i++)
+                    {
+                        Console.WriteLine($"{(char)('A' + i)}: {question.Answers[i]}");
+                    }
                     Console.Write("Skriv ditt svar: ");
                     string input = Console.ReadLine()?.ToUpper();
                     if (input == "A" && question.CorrectAnswer == 0 ||
@@ -37,7 +39,7 @@ namespace Codealong
                     else
                     {
                         Console.Clear();
-                        Console.WriteLine("Feil, prøv igjen.");
+                        Console.WriteLine("Feil! Trykk på en knapp for å gå til neste spørsmål");
                         QuestionList.Add(question);
                         Console.ReadKey();
                         Console.Clear();

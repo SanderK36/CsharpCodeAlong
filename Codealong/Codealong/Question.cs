@@ -8,9 +8,9 @@ namespace Codealong
 {
     internal class Question
     {
-        public string QuizQuestion {  get; private set; }
-        public string[] Answers { get; private set; }
-        public int CorrectAnswer { get; private set; }
+        public string QuizQuestion {  get; set; }
+        public string[] Answers { get; set; }
+        public int CorrectAnswer { get; set; }
 
         public Question(string question, string[] answers, int correctAnswer = 0)
         {
